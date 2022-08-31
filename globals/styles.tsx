@@ -20,6 +20,9 @@ const styles = StyleSheet.create({
     borderStyle: "solid",
     padding: 15,
   },
+  title: {
+    fontWeight: "bold",
+  },
 });
 
 export { styles };
